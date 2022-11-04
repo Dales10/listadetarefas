@@ -1,0 +1,14 @@
+.area {
+    margin: auto;
+    max-width: 980px;
+    padding: 10px;
+}
+
+.header {
+    color: #fff;
+    text-align: center;
+    border-bottom: 1px solid #444;
+    padding-bottom: 20px;
+}
+
+input:checked ~ label { text-decoration: line-through; }
